@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "releaseNotes": "- Servidor lanzado\n- Mu Online Season 6 Episode 3",
+  "news": "¡Bienvenidos al servidor!\n\nMu Online Season 6 Episode 3 ya está disponible.\n\nUnete a nuestra comunidad en Discord para estar al tanto de eventos y actualizaciones.",
+  "gameExe": "Main.exe",
+  "files": [
+    {
+      "localPath": "Main.exe",
+      "downloadUrl": "https://github.com/TU_USUARIO/TU_REPO/releases/download/v1.0.0/Main.exe",
+      "sha256": "HASH_SHA256_DEL_ARCHIVO_AQUI",
+      "size": 10485760
+    }
+  ]
+}
