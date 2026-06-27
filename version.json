@@ -1,11 +1,11 @@
 ﻿{
-  "version": "1.0.3",
-  "releaseNotes": "- Descripcion del parche",
-  "news": "Ring lorencia con palmeras",
+  "version": "1.0.4",
+  "releaseNotes": "Add Dreamland to Move M",
+  "news": "Mapa Dreamland en Menu al presiona M",
   "gameExe": "Main.exe",
   "patch": {
-    "url": "https://github.com/miguel731/mudestiny/releases/download/v1.0.3/patch_v1.0.3.zip",
-    "sha256": "DCD32FB070AC79FEC8DB0EB16924CEAA3D52BAECC2DCC4312E5EB17A6ECC2A23",
-    "size": 48475656
+    "url": "https://github.com/miguel731/mudestiny/releases/download/v1.0.4/patch_v1.0.4.zip",
+    "sha256": "377F3E04A3B97E9E17494D8AEFF1620C891868AAE8C03C6BA8645DD72B9AE64E",
+    "size": 4833
   }
 }
