@@ -1,11 +1,11 @@
 ﻿{
   "version": "1.0.2",
-  "releaseNotes": "Ring\nDreamland",
-  "news": "Nuevo ring para Lorencia.\nNuevo Mapa VIP Exclusivo",
+  "releaseNotes": "Dreamland VIP MAP\nRing lorencia mejorado",
+  "news": "Dreamland VIP MAP\nRing lorencia mejorado",
   "gameExe": "Main.exe",
   "patch": {
     "url": "https://github.com/miguel731/mudestiny/releases/download/v1.0.2/patch_v1.0.2.zip",
-    "sha256": "31F32528952E6384C70097F5514609781574520DE2DC8B15F548487F6F6D7A6F",
-    "size": 53250704
+    "sha256": "0C09033A392BC7A2D16839C46598776E84A437932666AC7D807B3E3A82F78E69",
+    "size": 55334535
   }
 }
