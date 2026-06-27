@@ -1,11 +1,11 @@
 ﻿{
-  "version": "1.0.2",
-  "releaseNotes": "Dreamland VIP MAP\nRing lorencia mejorado",
-  "news": "Dreamland VIP MAP\nRing lorencia mejorado",
+  "version": "1.0.3",
+  "releaseNotes": "- Descripcion del parche",
+  "news": "Ring lorencia con palmeras",
   "gameExe": "Main.exe",
   "patch": {
-    "url": "https://github.com/miguel731/mudestiny/releases/download/v1.0.2/patch_v1.0.2.zip",
-    "sha256": "0C09033A392BC7A2D16839C46598776E84A437932666AC7D807B3E3A82F78E69",
-    "size": 55334535
+    "url": "https://github.com/miguel731/mudestiny/releases/download/v1.0.3/patch_v1.0.3.zip",
+    "sha256": "DCD32FB070AC79FEC8DB0EB16924CEAA3D52BAECC2DCC4312E5EB17A6ECC2A23",
+    "size": 48475656
   }
 }
