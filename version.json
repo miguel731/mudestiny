@@ -1,11 +1,11 @@
 ﻿{
   "version": "1.0.0",
-  "releaseNotes": "- Descripcion del parche",
-  "news": "Novedades de la actualizacion...",
+  "releaseNotes": "Ring\nDreamland",
+  "news": "Nuevo Ring PVP Lorencia.\nNuevo Mapa Vip Exclusivo Dreamland",
   "gameExe": "Main.exe",
   "patch": {
-    "url": "https://github.com/miguel731/mudestiny/releases/download/v1.0.0/patch_v1.0.0.zip",
-    "sha256": "F0061C45DCFF96777C4EF4016A96AC0791A1FBE699E8180A3D3BBE2A50D7A412",
-    "size": 53257145
+    "url": "https://github.com/usuario/repositorio/releases/download/v1.0.0/patch_v1.0.0.zip",
+    "sha256": "31F32528952E6384C70097F5514609781574520DE2DC8B15F548487F6F6D7A6F",
+    "size": 53250704
   }
 }
